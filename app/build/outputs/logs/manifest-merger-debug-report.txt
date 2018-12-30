@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:1:1-37:12
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\77d164ad4c75aaee91f7656f2ff6b8dd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\49b10f83bba5058cb85dafcf8ae35d8e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\41b229f545c55d6e006af46b8e6ca07c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\6dec189dc921faa2d8baf67d7a4dbb68\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\cd1641eafb1ed69c782d6d204f03c7c7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\0029026aae75c87edb75af7b85e51267\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\b3ce4821af4f250f13603a1e6c0ff436\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\6b5ad9c1b9bab99e07c2a48fb9600be7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\71d68fccb273a878bdfbc21059c21da3\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:1:1-37:12
+	package
+		ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:2:5-36
+		INJECTED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\77d164ad4c75aaee91f7656f2ff6b8dd\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\77d164ad4c75aaee91f7656f2ff6b8dd\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\49b10f83bba5058cb85dafcf8ae35d8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\49b10f83bba5058cb85dafcf8ae35d8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\41b229f545c55d6e006af46b8e6ca07c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\41b229f545c55d6e006af46b8e6ca07c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\6dec189dc921faa2d8baf67d7a4dbb68\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\6dec189dc921faa2d8baf67d7a4dbb68\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\cd1641eafb1ed69c782d6d204f03c7c7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\cd1641eafb1ed69c782d6d204f03c7c7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\0029026aae75c87edb75af7b85e51267\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\0029026aae75c87edb75af7b85e51267\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\b3ce4821af4f250f13603a1e6c0ff436\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\b3ce4821af4f250f13603a1e6c0ff436\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\6b5ad9c1b9bab99e07c2a48fb9600be7\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\6b5ad9c1b9bab99e07c2a48fb9600be7\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\71d68fccb273a878bdfbc21059c21da3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\71d68fccb273a878bdfbc21059c21da3\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:6:5-8:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\77d164ad4c75aaee91f7656f2ff6b8dd\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:7:9-34
+		INJECTED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:10:22-62
+uses-permission#android.permission.INTERNET
+ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:12:22-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:13:5-69
+	android:name
+		ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:13:22-66
+application
+ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:15:5-35:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\77d164ad4c75aaee91f7656f2ff6b8dd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\77d164ad4c75aaee91f7656f2ff6b8dd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\49b10f83bba5058cb85dafcf8ae35d8e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\49b10f83bba5058cb85dafcf8ae35d8e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\41b229f545c55d6e006af46b8e6ca07c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\41b229f545c55d6e006af46b8e6ca07c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\6dec189dc921faa2d8baf67d7a4dbb68\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\6dec189dc921faa2d8baf67d7a4dbb68\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\cd1641eafb1ed69c782d6d204f03c7c7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\cd1641eafb1ed69c782d6d204f03c7c7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\0029026aae75c87edb75af7b85e51267\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\0029026aae75c87edb75af7b85e51267\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\b3ce4821af4f250f13603a1e6c0ff436\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\b3ce4821af4f250f13603a1e6c0ff436\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\6b5ad9c1b9bab99e07c2a48fb9600be7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\6b5ad9c1b9bab99e07c2a48fb9600be7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\71d68fccb273a878bdfbc21059c21da3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\71d68fccb273a878bdfbc21059c21da3\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.example.zxingdemo.MainActivity
+ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:20:9-29:20
+	android:screenOrientation
+		ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:23:13-49
+	android:label
+		ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:21:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.karics.library.zxing.android.CaptureActivity
+ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:30:9-34:20
+	android:screenOrientation
+		ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:33:13-49
+	android:theme
+		ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:32:13-60
+	android:name
+		ADDED from D:\Code\ZXingDemoStudio\app\src\main\AndroidManifest.xml:31:13-76
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\77d164ad4c75aaee91f7656f2ff6b8dd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\49b10f83bba5058cb85dafcf8ae35d8e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\49b10f83bba5058cb85dafcf8ae35d8e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\41b229f545c55d6e006af46b8e6ca07c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\41b229f545c55d6e006af46b8e6ca07c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\6dec189dc921faa2d8baf67d7a4dbb68\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\6dec189dc921faa2d8baf67d7a4dbb68\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\cd1641eafb1ed69c782d6d204f03c7c7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\cd1641eafb1ed69c782d6d204f03c7c7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\0029026aae75c87edb75af7b85e51267\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\0029026aae75c87edb75af7b85e51267\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\b3ce4821af4f250f13603a1e6c0ff436\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\b3ce4821af4f250f13603a1e6c0ff436\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\6b5ad9c1b9bab99e07c2a48fb9600be7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\6b5ad9c1b9bab99e07c2a48fb9600be7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\71d68fccb273a878bdfbc21059c21da3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\71d68fccb273a878bdfbc21059c21da3\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\77d164ad4c75aaee91f7656f2ff6b8dd\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\smallLee\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\77d164ad4c75aaee91f7656f2ff6b8dd\AndroidManifest.xml:27:13-51
